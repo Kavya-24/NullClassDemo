@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NullClass</string>
+    <string name="nullClass">NullClass</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="continue_signin">SIGN IN</string>
+    <string name="resend_email_verification">Resend email verification</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="new_to_noteitup">New to NullClass?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="authFailed">Authentication failed.</string>
+    <string name="continue_signUp">Register</string>
+    <string name="already_haveAccount">Already have an account?</string>
+    <string name="empPassword">Password can not be empty</string>
+    <string name="empEmail">Email can not be empty</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="createNewAccount">Create new account</string>
+</resources>
